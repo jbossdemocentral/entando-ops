@@ -23,14 +23,14 @@
             },
             "from": {
               "kind": "DockerImage",
-              "name": "docker.io/entando/fsi-cc-dispute-customer:5.0.2"
+              "name": "quay.io/rhpam_rhdm/fsi-cc-dispute-customer:5.0.2"
             },
             "name": "latest"
           },
           {
             "from": {
               "kind": "DockerImage",
-              "name": "docker.io/entando/fsi-cc-dispute-customer:5.0.2"
+              "name": "quay.io/rhpam_rhdm/fsi-cc-dispute-customer:5.0.2"
             },
             "name": "5.0.2"
           }
@@ -58,14 +58,14 @@
             },
             "from": {
               "kind": "DockerImage",
-              "name": "docker.io/entando/fsi-cc-dispute-admin:5.0.2"
+              "name": "quay.io/rhpam_rhdm/fsi-cc-dispute-admin:5.0.2"
             },
             "name": "latest"
           },
           {
             "from": {
               "kind": "DockerImage",
-              "name": "docker.io/entando/fsi-cc-dispute-admin:5.0.2"
+              "name": "quay.io/rhpam_rhdm/fsi-cc-dispute-admin:5.0.2"
             },
             "name": "5.0.2"
           }
